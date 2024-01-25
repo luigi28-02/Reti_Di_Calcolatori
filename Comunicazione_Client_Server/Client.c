@@ -63,6 +63,9 @@
         {
             fprintf(stderr,"read error \n");
             exit(1);
+        }else
+        {
+            printf("%d",n);
         }
         exit(0);
     }
