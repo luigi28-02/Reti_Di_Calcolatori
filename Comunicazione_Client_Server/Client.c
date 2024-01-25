@@ -68,5 +68,7 @@
             printf("%d",n);
         }
         exit(0);
+
+        //AAA
     }
 
